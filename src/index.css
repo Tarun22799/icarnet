@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.delete-icon {
+  margin-left: -10rem;
+  cursor: pointer
+}
+
+.edit-icon {
+  margin-left: 2rem;
+  cursor: pointer
+
+}
+
